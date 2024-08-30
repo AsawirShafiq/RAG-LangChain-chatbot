@@ -72,7 +72,7 @@
 # print(result.content)
 
 
-api_key = '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'
+
 import os
 from sentence_transformers import SentenceTransformer
 from langchain.embeddings.base import Embeddings
